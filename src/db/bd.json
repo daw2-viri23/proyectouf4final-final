@@ -1,0 +1,52 @@
+{
+  "historias": [
+    {
+      "id": "1",
+      "titulo": "Tailandia",
+      "fecha": "Junio de 2023",
+      "experiencia": "Exploración de las playas paradisíacas y la bulliciosa vida urbana de Bangkok. Una combinación perfecta entre relajación y aventura.",
+      "comentario": "Desde las vibrantes calles de Bangkok hasta las serenas islas del sur, este viaje a Tailandia fue una experiencia inolvidable. Nos sumergimos en la cultura tailandesa, probando deliciosas comidas callejeras, visitando antiguos templos y participando en emocionantes excursiones de buceo. Cada día nos sorprendía con nuevas maravillas y nos dejaba con recuerdos duraderos.",
+      "imagen": "https://blog.localadventures.mx/wp-content/uploads/2023/04/hermosas-montanas-ratchaprapha-dam-parque-nacional-khao-sok-provincia-surat-thani-tailandia-scaled.jpg"
+    },
+    {
+      "id": "3",
+      "titulo": "Tailandia ACTUALIZADA",
+      "fecha": "Junio de 2018",
+      "experiencia": "Experiencia actualizada",
+      "comentario": "Comentario actualizado",
+      "imagen": "https://blog.localadventures.mx/wp-content/uploads/2023/04/hermosas-montanas-ratchaprapha-dam-parque-nacional-khao-sok-provincia-surat-thani-tailandia-scaled.jpg"
+    },
+    {
+      "id": "4",
+      "titulo": "Perú",
+      "fecha": "Septiembre de 2023",
+      "experiencia": "Un viaje épico por las antiguas ruinas de Machu Picchu y la bulliciosa ciudad de Cusco. Descubrimos la rica historia y la impresionante belleza natural de este país sudamericano.",
+      "comentario": "Perú nos cautivó con su historia milenaria y su diversidad natural. Desde las majestuosas ruinas de Machu Picchu hasta las profundidades de la selva amazónica, cada rincón del país estaba lleno de maravillas por descubrir. Nos sumergimos en la cultura andina, probando platos tradicionales y participando en ceremonias ancestrales. Fue un viaje que nos dejó con un profundo respeto por la riqueza cultural y la belleza natural de Perú.",
+      "imagen": "https://content.skyscnr.com/m/6e3cd168391dd764/original/GettyImages-526212233.jpg?crop=1224px:647px&position=attention"
+    },
+    {
+      "id": "5",
+      "titulo": "Kenia",
+      "fecha": "Marzo de 2024",
+      "experiencia": "Un safari inolvidable por las vastas llanuras de Masai Mara y Amboseli. Nos maravillamos con la diversidad de la vida salvaje y la belleza natural de Kenia.",
+      "comentario": "Kenia nos recibió con la majestuosidad de sus paisajes y la abundancia de su vida salvaje. En nuestro safari, presenciamos la migración de los ñus en Masai Mara, nos acercamos a los majestuosos elefantes en Amboseli y nos maravillamos con la belleza del lago Nakuru. Cada día nos sorprendía con encuentros cercanos con la vida salvaje y nos dejaba con una profunda apreciación por la belleza y fragilidad de nuestro planeta.",
+      "imagen": "https://lonelyplanetes.cdnstatics2.com/sites/default/files/styles/max_1300x1300/public/fotos/Kenia_Narok_valleRif_500px_112760061_Mario%20Moreno_500px.JPG?itok=s9XzM16Q"
+    },
+    {
+      "id": "2",
+      "titulo": "Tailandia",
+      "fecha": "Junio de 2023",
+      "experiencia": "Exploración de las playas paradisíacas y la bulliciosa vida urbana de Bangkok. Una combinación perfecta entre relajación y aventura.",
+      "comentario": "Desde las vibrantes calles de Bangkok hasta las serenas islas del sur, este viaje a Tailandia fue una experiencia inolvidable. Nos sumergimos en la cultura tailandesa, probando deliciosas comidas callejeras, visitando antiguos templos y participando en emocionantes excursiones de buceo. Cada día nos sorprendía con nuevas maravillas y nos dejaba con recuerdos duraderos.",
+      "imagen": "https://blog.localadventures.mx/wp-content/uploads/2023/04/hermosas-montanas-ratchaprapha-dam-parque-nacional-khao-sok-provincia-surat-thani-tailandia-scaled.jpg"
+    },
+    {
+      "id": "7",
+      "titulo": "Cataluña",
+      "fecha": "Abril de 2024",
+      "experiencia": "Visita a la sagrada famila",
+      "comentario": "Es un edificio increible!!!",
+      "imagen": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2023/07/14/basilica-de-la-sagrada-familia.jpeg"
+    }
+  ]
+}
